@@ -16,4 +16,4 @@ def returnSubstring(s):
     
     return [len(tempVal), tempVal]
 
-print(returnSubstring('bbbbbb'))
+print(returnSubstring('abcabcbb'))
